@@ -1,0 +1,58 @@
+{
+  "novel_title": "重生08：我从零开始",
+  "current_volume": 1,
+  "current_chapter": 4,
+  "chapters": {
+    "1": {"title": "重生08", "status": "written", "words": 2900, "date": "2026-07-16"},
+    "2": {"title": "志愿与怀疑", "status": "written", "words": 2500, "date": "2026-07-16"},
+    "3": {"title": "第一笔钱", "status": "written", "words": 2500, "date": "2026-07-16"},
+    "4": {"title": "东头的人", "status": "written", "words": 2600, "date": "2026-07-16"}
+  },
+  "active_plot_threads": [
+    "代练赚钱（第一桶金）",
+    "与父亲的情感线（学费差额700元）",
+    "网吧老板马哥：从怀疑到初步信任",
+    "地头蛇刘强：压迫建立+33天倒计时",
+    "三叔干预志愿（电话/QQ施压）",
+    "奥运周边商机（未启动）"
+  ],
+  "active_foreshadowing": [
+    {
+      "id": "F001",
+      "chapter": 1,
+      "content": "前世合伙人在江城（录取通知书上的学校所在地）",
+      "status": "active",
+      "expected_resolution": "卷三"
+    },
+    {
+      "id": "F002",
+      "chapter": 2,
+      "content": "三叔要干预志愿填报，父亲沉默担忧",
+      "status": "active",
+      "expected_resolution": "卷一中期"
+    },
+    {
+      "id": "F003",
+      "chapter": 3,
+      "content": "刘强8月17日因入室抢劫案被通缉（邻市建材批发个体户，撬棍，指纹）",
+      "status": "active",
+      "expected_resolution": "卷一4-8章"
+    },
+    {
+      "id": "F004",
+      "chapter": 4,
+      "content": "疤脸威胁：'你爸在哪个工地'——家人安全预警",
+      "status": "active",
+      "expected_resolution": "卷一4-8章"
+    }
+  ],
+  "character_last_appearance": {
+    "林向北": 4,
+    "林建国（父亲）": 2,
+    "马哥（网吧老板）": 4,
+    "李博文": 2,
+    "三叔": 2,
+    "疤脸（刘强手下）": 4,
+    "刘强（地头蛇）": 4
+  }
+}
