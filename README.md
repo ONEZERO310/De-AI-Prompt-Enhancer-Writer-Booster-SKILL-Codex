@@ -1,6 +1,6 @@
 # De-AI Prompt Enhancer & Writer Booster SKILL
 
-一套中文去 AI 味提示词，打包成 SKILL 格式，适用于 Claude Code、Cursor、Windsurf 等支持 SKILL 调用的工具。核心做的事情就两件：把 AI 生成的中文改得不像 AI 写的，以及复现一个真实作者的写作风格。
+一套中文去 AI 味提示词，打包成 SKILL 格式，适用于 Codex、Cursor、Windsurf 等支持 SKILL 调用的工具。核心做的事情就两件：把 AI 生成的中文改得不像 AI 写的，以及复现一个真实作者的写作风格。
 
 > 上游仓库：<https://github.com/op7418/Humanizer-zh>
 >
